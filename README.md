@@ -69,7 +69,7 @@ Create your own `.env` file using this [template](./env.template).
         </tr>
         <tr>
             <td>PUBLIC_BASE_PATH</td>
-            <td><code>/dap</code></td>
+            <td><code>/rp</code></td>
             <td><code>/</code></td>
             <td>
                 <div>Base Path to serve the webiste from.</div>
@@ -119,7 +119,7 @@ Create your own `.env` file using this [template](./env.template).
 
 # Containerization
 
-The [script](./build_container.sh) builds a `data_abstraction_platform/website` container image using this [`Dockerfile`](./Dockerfile).
+The [script](./build_container.sh) builds a `rahab_platform/website` container image using this [`Dockerfile`](./Dockerfile).
 
 The script accepts the following flags during execution.
 

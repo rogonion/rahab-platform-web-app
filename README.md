@@ -78,8 +78,8 @@ Create your own `.env` file using this [template](./env.template).
         </tr>
         <tr>
             <td>PUBLIC_WEBSITE_TITLE</td>
-            <td><code>Data Abstraction Platform</code></td>
-            <td><code>Data Abstraction Platform Dev</code></td>
+            <td><code>Rahab Platform</code></td>
+            <td><code>Rahab Platform Dev</code></td>
             <td>Title of the website</td>
         </tr>
        <tr>
